@@ -9,19 +9,14 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "Base Mini App Starter",
-    "homeUrl": "https://starterminiapp.com",
-    "iconUrl": "https://starterminiapp.com/icon.png",
-    "splashImageUrl": "https://starterminiapp.com/splash.png",
-    "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://starterminiapp.com/hero.png",
-    "subtitle": "Build your Base Mini App",
-    "description": "Clone this starter template to build your own Base Mini App. Customize this description to explain what your app does (max 170 chars).",
-    "primaryCategory": "developer-tools",
-    "tags": ["starter", "template", "miniapp"],
-    "ogTitle": "Base Mini App Starter",
-    "ogDescription": "Clone and customize this template to build your Base Mini App",
-    "ogImageUrl": "https://starterminiapp.com/hero.png"
+    "name": "FID PUKEROR",
+    "iconUrl": "https://yourdomain.com/icon.png",
+    "homeUrl": "https://yourdomain.com",
+    "splashImageUrl": "https://yourdomain.com/splash.png",
+    "splashBackgroundColor": "#0000FF",
+    "heroImageUrl": "https://yourdomain.com/hero.png",
+    "tagline": "Early Access Awaits",
+    "heroText": "Be Among the First to Experience FID PUKEROR",
+    "heroSubtext": "Sign up now and secure your spot on the waitlist for exclusive early access and updates."
   }
 }
-
